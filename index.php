@@ -1,3 +1,6 @@
+<?php
+	include("tools.php");
+?>
 <!doctype html>
 <html lang="es">
   	<head>
@@ -114,28 +117,28 @@
 			    		<div class="col-md-4 col-12 d-flex flex-column justify-content-center align-items-center">
 			    			<p>Cotiza ya <br>¿Que servicio requieres?</p>
 			    			<label class="custom-control custom-radio">
-								 <input name="service" type="radio" value="Residencial" class="custom-control-input">
+								 <input name="service" type="radio" value="Residencial" class="custom-control-input" required>
 								 <span class="custom-control-indicator"></span>
 								 <span class="custom-control-description">Residencial</span>
 							</label>
 			    			<label class="custom-control custom-radio">
-								<input name="service" type="radio" value="Comercial" class="custom-control-input">
+								<input name="service" type="radio" value="Comercial" class="custom-control-input" required>
 								<span class="custom-control-indicator"></span>
 								<span class="custom-control-description">Comercial</span>
 							</label>
 							<label class="custom-control custom-radio">
-								<input name="service" type="radio" value="Industrial" class="custom-control-input">
+								<input name="service" type="radio" value="Industrial" class="custom-control-input" required>
 								<span class="custom-control-indicator"></span>
 								<span class="custom-control-description">Industrial</span>
 							</label>
 							<div class="form-group">
-								<input type="text" name="name" class="form-control" required placeholder="Nombre">
+								<input type="text" name="name" class="form-control" required placeholder="Nombre" required>
 							</div>
 							<div class="form-group">
-								<input type="text" name="phone" class="form-control" placeholder="Telefono">
+								<input type="text" name="phone" class="form-control" placeholder="Telefono" required>
 							</div>
 							<div class="form-group">
-								<input type="text" name="email" class="form-control" placeholder="E-mail">
+								<input type="text" name="email" class="form-control" placeholder="E-mail" required>
 							</div>
 							<div class="form-group">
 								<input type="submit" name="send" class="form-control" value="Enviar">
