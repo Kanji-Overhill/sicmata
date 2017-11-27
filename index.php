@@ -26,6 +26,7 @@
 		<link rel="icon" href="images/favicon.png" type="image/png">
 	    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 	    <link rel="stylesheet" type="text/css" media="none" onload="if(media!='all')media='all'" href="css/styles.css">
+	    <link rel="canonical" href="http://sicmata.com" />
   	</head>
 	<body>
 		<header>
@@ -64,7 +65,7 @@
 	    	<section class="container-fluid index_container" id="sec-1">
 				<div class="row justify-content-center align-items-center">
 					<div class="col-12">
-						<img src="images/logo.png" alt="">
+						<img src="images/logo.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 						<h1>Fumigaciones, Sanitizacion y Control de Plagas</h1>
 						<h2>Soluciones a tu medida Desde <span>$300.00</span></h2>
 						<a id="cotiza" href="#sec-2">Cotiza Ya</a>
@@ -81,7 +82,7 @@
 		    					<div class="row justify-content-center align-items-center align-content-center">
 		    						<div class="col-4">
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/002-house.svg" alt="Card image cap">
+										  <img class="card-img-top" src="images/002-house.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
 										    <h4 class="card-title">Residencial</h4>
 										    <p class="card-text">
@@ -92,7 +93,7 @@
 		    						</div>
 		    						<div class="col-4">
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/003-store.svg" alt="Card image cap">
+										  <img class="card-img-top" src="images/003-store.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
 										    <h4 class="card-title">Comerial</h4>
 										    <p class="card-text">
@@ -103,7 +104,7 @@
 		    						</div>
 		    						<div class="col-4">
 		    							<div class="card align-items-center">
-										  <img class="card-img-top" src="images/001-factory.svg" alt="Card image cap">
+										  <img class="card-img-top" src="images/001-factory.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 										  <div class="card-body">
 										    <h4 class="card-title">Industrial</h4>
 										    <p class="card-text">
@@ -152,7 +153,7 @@
 	    			<div class="col-md-6 col-12 d-flex justify-content-center align-items-center flex-column">
 	    				<p>Somos una empresa dedicada a brindar servicios y asesoria en la fumigacion, sanitizacion y control de plagas urbanas y agricolas.</p>
 	    				<p>Proporcionamos a nuestros clientes servicios a la medida de sus necesidades permitiendoles ahorrar dinero y dar una mejor imagen de su negocio.</p>
-	    				<img src="images/logo-2_w.png" alt="" class="img-fluid">
+	    				<img src="images/logo-2_w.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla" class="img-fluid">
 	    			</div>
 	    			<div class="col-md-6 col-12"></div>
 	    		</div>
@@ -194,14 +195,14 @@
 			    						<p><b>Permitenos</b><br>solucionar tu problema</p>
 			    					</div>
 			    					<div class="col-5 d-sm-none">
-			    						<img src="images/logo.png" alt="">
+			    						<img src="images/logo.png" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 			    					</div>
 	    						</div>
 	    					</div>
 	    					<div class="col-md-10 col-12 d-flex flex-column align-content-center">
 			    				<h3>Contacto:</h3>
 			    				<p>Teléfono: 288-100-0674<br>contacto@sicmata.com</p>
-				    			<a href="#" class="social-item"><img src="images/facebook-logo.svg" alt=""></a>
+				    			<a href="#" class="social-item"><img src="images/facebook-logo.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla"></a>
 	    					</div>
 	    				</div>
 	    			</div>

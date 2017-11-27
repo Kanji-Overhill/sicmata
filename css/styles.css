@@ -324,11 +324,14 @@ header .navbar-expand-lg .navbar-nav .nav-link{
 	text-align: right;
 }
 .index_container--seccion4 .row:last-child{
-	min-height: auto;
+	min-height: 100px;
 }
 @media (max-width: 500px){
+	#sec-1 .row .col-12 img{
+		margin-top: 3rem;
+	}
 	.index_container--seccion4 .col-md-6:last-child .row:first-child .col-12:first-child .col-5 img{
-		padding-top: 3rem;
+		padding-top: 4rem;
 	}
 	.index_container--seccion4 .col-md-6:last-child .row:first-child .col-md-10{
 		text-align: center;
