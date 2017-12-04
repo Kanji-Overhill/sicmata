@@ -327,8 +327,12 @@ header .navbar-expand-lg .navbar-nav .nav-link{
 	min-height: 100px;
 }
 @media (max-width: 500px){
+	.index_container .row .col-12 h1, .index_container .row .col-12 h2{
+		font-size: 1.5rem;
+	}
 	#sec-1 .row .col-12 img{
 		margin-top: 3rem;
+		max-width: 150px;
 	}
 	.index_container--seccion4 .col-md-6:last-child .row:first-child .col-12:first-child .col-5 img{
 		padding-top: 4rem;

@@ -14,13 +14,13 @@
 		<meta name="twitter:site" content="@sicmata">
 		<meta name="twitter:title" content="Fumigaciones y Control de Plagas en Veracruz y Puebla">
 		<meta name="twitter:description" content="Servicios de Fumigaciones, control de Plagas y Sanitizacion Residencial, Comercial e Industrial en Veracruz y Puebla, estamos certificados por la COFEPRIS.">
-		<meta name="twitter:image" content="http://sicmata.com/images/acerca.jp">
+		<meta name="twitter:image" content="http://sicmata.com/images/IMG_2167.JPG">
 
 		<!-- Open Graph data -->
 		<meta property="og:title" content="Fumigaciones y Control de Plagas en Veracruz y Puebla" />
 		<meta property="og:type" content="article" />
 		<meta property="og:url" content="http://sicmata.com/" />
-		<meta property="og:image" content="http://sicmata.com/images/acerca.jpg" />
+		<meta property="og:image" content="http://sicmata.com/images/logo-2.png" />
 		<meta property="og:description" content="Servicios de Fumigaciones, control de Plagas y Sanitizacion Residencial, Comercial e Industrial en Veracruz y Puebla, estamos certificados por la COFEPRIS." /> 
 		<meta property="og:site_name" content="Sicmata" />
 		<link rel="icon" href="images/favicon.png" type="image/png">
@@ -202,7 +202,7 @@
 	    					<div class="col-md-10 col-12 d-flex flex-column align-content-center">
 			    				<h3>Contacto:</h3>
 			    				<p>Teléfono: 288-100-0674<br>contacto@sicmata.com</p>
-				    			<a href="#" class="social-item"><img src="images/facebook-logo.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla"></a>
+				    			<a href="#" rel="nofollow" class="social-item"><img src="images/facebook-logo.svg" alt="Fumigaciones y Control de Plagas en Veracruz y Puebla"></a>
 	    					</div>
 	    				</div>
 	    			</div>
@@ -214,5 +214,14 @@
 	    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 	    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 	    <script src="js/scripts.js"></script>
+	    <!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109143464-2"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-109143464-2');
+		</script>
 	</body>
 </html>
